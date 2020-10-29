@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-I'm learning HTML5 and javascript
+now I'm learning Python
